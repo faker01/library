@@ -1,3 +1,19 @@
+list_of_expansion_books=['txt', 'doc', 'docx', 'pdf', 'epub', 'fb2']
+list_of_expansion_music=['mp3', 'flac', 'wav', 'ogg', 'aac']
+list_of_expansion_video=['mp4', 'avi', 'mov', 'mpg', 'mpeg', 'wmv']
+books_list=[]
+music_list=[]
+video_list=[]
+def sort_by_tag(names):
+    for i in names:
+        if i in list_of_expansion_books:
+            books_list.append(i)
+        elif i in list_of_expansion_music:
+            music_list.append(i)
+        elif i in list_of_expansion_video:
+            video_list.append(i)
+
+
 f = open('list_of_books.txt', 'r')
 list1 = [line.strip() for line in f]
-print(list1)
+print(sort_by_tag(list1))
