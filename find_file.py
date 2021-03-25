@@ -27,10 +27,11 @@ def path_find_file(finded_files):
 prog = os.getcwd()
 user = getpass.getuser()
 sett = open(prog + '/settings.txt', 'r')
-for i in sett:
-    if i in ['.txt']:
+sett1 = sett.read().split('\n')
+for i in sett1:
+    if i == 'txt':
         list_of_expansion_books.append(i)
-    elif i in ['.aac', '.wav', '.ogg', '.flac']:
+    elif i in ['aac', 'wav', 'ogg', 'flac']:
         list_of_expansion_music.append(i)
 sett.close()
 f = open((prog + '/list_of_books.txt'), 'w')

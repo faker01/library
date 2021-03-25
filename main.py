@@ -15,6 +15,27 @@ import addUI
 import sort_listUI
 
 
+def file_search():
+    global books, videos, music
+    find_file
+    f = open('list_of_books.txt', mode='r+')
+    sort_params = f.read().split('\n')
+    f.close()
+    for i in sort_params:
+        if 'book' in i:
+            books.append(i)
+        elif 'video' in i:
+            videos.append(i)
+        elif 'music' in i:
+            music.append(i)
+
+
+def changes_notification():
+    msg = QMessageBox()
+    msg.setText('Чтобы измения вступили в силу, надо перезапустить программу')
+    msg.exec_()
+
+
 # вывод таблицы с файлами (удаление файлов - сделать)
 class Show_List(QMainWindow, listUI.Ui_Form):
     def __init__(self):
@@ -29,14 +50,14 @@ class Show_List(QMainWindow, listUI.Ui_Form):
         row = 0
         self.files = []
         if sort_params == []:
-            self.files = music + videos + books
+            self.files = sorted(music) + sorted(videos) + sorted(books)
         elif sort_params != []:
             if 'music' in sort_params:
-                self.files += music
+                self.files += sorted(music)
             if 'video' in sort_params:
-                self.files += videos
+                self.files += sorted(videos)
             if 'book' in sort_params:
-                self.files += books
+                self.files += sorted(books)
         self.tableWidget.setRowCount(len(self.files) - 1)
         for i in self.files:
             column = 0
@@ -69,6 +90,8 @@ class Show_List(QMainWindow, listUI.Ui_Form):
 class Settings(QWidget, settingsUI2.Ui_Form):
     def __init__(self):
         super().__init__()
+        r = open('settings.txt', 'w')
+        r.close()
         self.setupUi(self)
         self.pushButton.clicked.connect(self.run)
         self.checkBox.stateChanged.connect(self.wav)
@@ -77,33 +100,36 @@ class Settings(QWidget, settingsUI2.Ui_Form):
         self.checkBox_4.stateChanged.connect(self.flac)
         self.checkBox_5.stateChanged.connect(self.aac)
 
+    def closeEvent(self, event):
+        file_search()
+
     def run(self):
         r = open('settings.txt', 'w')
-        r.close
+        r.close()
 
     def wav(self):
         r = open('settings.txt', 'a')
-        r.write('.wav')
+        r.write('wav\n')
         r.close()
 
     def aac(self):
         r = open('settings.txt', 'a')
-        r.write('.aac')
+        r.write('aac\n')
         r.close()
 
     def flac(self):
         r = open('settings.txt', 'a')
-        r.write('.flac')
+        r.write('flac\n')
         r.close()
 
     def ogg(self):
         r = open('settings.txt', 'a')
-        r.write('.ogg')
+        r.write('ogg\n')
         r.close()
 
     def txt(self):
         r = open('settings.txt', 'a')
-        r.write('.txt')
+        r.write('txt\n')
         r.close()
 
 
@@ -172,23 +198,14 @@ class Main(QMainWindow, mainUI.Ui_Form):
         self.list_start.show()
 
 
-# поиск и добавление файлов в список
-find_file
-f = open('list_of_books.txt', mode='r+')
-sort_params = f.read().split('\n')
-f.close()
+# списки с книгами, видео и музыкой
 books, videos, music = [], [], []
-for i in sort_params:
-    if 'book' in i:
-        books.append(i)
-    elif 'video' in i:
-        videos.append(i)
-    elif 'music' in i:
-        music.append(i)
 # список с сортировками
 sort_params = []
 # self для таблицы, чтобы обновлять
 table_self = ''
+# поиск файлов и запись в списки для быстрого обращения
+file_search()
 # запуск приложения
 app = QApplication(sys.argv)
 ex = Main()
