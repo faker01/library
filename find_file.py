@@ -2,7 +2,6 @@ import os, getpass
 list_of_expansion_books = ['doc', 'docx', 'pdf', 'epub', 'fb2']  # 'txt',
 list_of_expansion_music = ['mp3']
 list_of_expansion_video = ['mp4', 'avi', 'mov', 'mpg', 'mpeg', 'wmv']
-paths_all = ['/Downloads', '/Documents', '/Videos', '/Music', '/Рабочий стол']
 
 def path_find_file(finded_files):
     result = []
@@ -29,14 +28,13 @@ prog = os.getcwd()
 user = getpass.getuser()
 sett = open(prog + '/settings.txt', 'r')
 for i in sett:
-    if i in ['txt']:
+    if i in ['.txt']:
         list_of_expansion_books.append(i)
-    elif i in ['aac', 'wav', 'ogg', 'flac']:
+    elif i in ['.aac', '.wav', '.ogg', '.flac']:
         list_of_expansion_music.append(i)
 sett.close()
-f = open(prog + '/list_of_books.txt', 'w')
-for paths in paths_all:
-    r = path_find_file(os.walk(('C://users/' + user), topdown=True))
-    for i in r:
-        f.write(i)
+f = open((prog + '/list_of_books.txt'), 'w')
+r = path_find_file(os.walk(('C://users/' + user), topdown=True))
+for i in r:
+    f.write(i)
 f.close()
