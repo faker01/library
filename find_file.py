@@ -28,6 +28,8 @@ prog = os.getcwd()
 user = getpass.getuser()
 sett = open(prog + '/settings.txt', 'r')
 sett1 = sett.read().split('\n')
+with open('exceptions.txt', 'r') as exc:
+    exceptions = [line for line in exc]
 for i in sett1:
     if i == 'txt':
         list_of_expansion_books.append(i)
@@ -37,5 +39,6 @@ sett.close()
 f = open((prog + '/list_of_books.txt'), 'w')
 r = path_find_file(os.walk(('C://users/' + user), topdown=True))
 for i in r:
-    f.write(i)
+    if i not in exceptions:
+        f.write(i)
 f.close()

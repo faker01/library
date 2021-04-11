@@ -78,7 +78,19 @@ class Show_List(QMainWindow, listUI.Ui_Form):
             msg.exec_()
 
     def delete_file(self):  # надо посмотреть через работу с файлами и работа с таблицами Qt
-        pass
+        global exceptions
+        try:
+            index = self.tableWidget.currentRow()
+            deleteconfirmation = QMessageBox.critical(self.parent(), "Удаление строки",
+                                                                "Вы уверена, что хотите удалить данную строку?",
+                                                                QMessageBox.Yes, QMessageBox.No)
+            if deleteconfirmation == QMessageBox.Yes:
+                self.tableWidget.removeRow(index)
+
+            del self.files[index]
+            exceptions.append(self.files[index])
+        except Exception as e:
+            print(e)
 
     def sort_table(self):
         global table_self
@@ -197,11 +209,19 @@ class Main(QMainWindow, mainUI.Ui_Form):
         self.list_start = Show_List()
         self.list_start.show()
 
+    def closeEvent(self, event):
+        with open('exceptions.txt', 'w') as exc:
+            for i in exceptions:
+                exc.write(i + '\n')
+
 
 # списки с книгами, видео и музыкой
 books, videos, music = [], [], []
 # список с сортировками
 sort_params = []
+# список файлов исключений
+with open('exceptions.txt', 'r') as exc:
+    exceptions = [line for line in exc]
 # self для таблицы, чтобы обновлять
 table_self = ''
 # поиск файлов и запись в списки для быстрого обращения
