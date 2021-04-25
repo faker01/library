@@ -14,7 +14,11 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 class Ui_Form(object):
     def setupUi(self, Form):
         Form.setObjectName("Form")
-        Form.resize(459, 550)
+        Form.setMinimumHeight(500)
+        Form.setMinimumWidth(400)
+        Form.setMaximumHeight(500)
+        Form.setMaximumHeight(400)
+        Form.setStyleSheet("background: url(питончик.png); color: rgb(255, 255, 255);")
         self.verticalLayoutWidget = QtWidgets.QWidget(Form)
         self.verticalLayoutWidget.setGeometry(QtCore.QRect(10, 10, 441, 531))
         self.verticalLayoutWidget.setObjectName("verticalLayoutWidget")
@@ -38,6 +42,11 @@ class Ui_Form(object):
         self.verticalLayout.addWidget(self.checkBox_5)
         self.pushButton = QtWidgets.QPushButton(self.verticalLayoutWidget)
         self.pushButton.setObjectName("pushButton")
+        icon = QtGui.QIcon()
+        icon.addPixmap(QtGui.QPixmap("Сбросить.png"), QtGui.QIcon.Normal, QtGui.QIcon.Off)
+        self.pushButton.setIcon(icon)
+        self.pushButton.setIconSize(QtCore.QSize(400, 40))
+        self.pushButton.setText("")
         self.verticalLayout.addWidget(self.pushButton)
 
         self.retranslateUi(Form)
@@ -51,4 +60,4 @@ class Ui_Form(object):
         self.checkBox_3.setText(_translate("Form", "добавлять .ogg файлы"))
         self.checkBox_4.setText(_translate("Form", "добавлять .flac  файлы"))
         self.checkBox_5.setText(_translate("Form", "добавлять .aac  файлы"))
-        self.pushButton.setText(_translate("Form", "сбросить"))
+

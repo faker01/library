@@ -14,6 +14,7 @@ class Ui_Form(object):
     def setupUi(self, Form):
         Form.setObjectName("Form")
         Form.resize(750, 673)
+        Form.setStyleSheet("background: url(питончик.png); color: rgb(255, 255, 255);")
         self.verticalLayoutWidget = QtWidgets.QWidget(Form)
         self.verticalLayoutWidget.setGeometry(QtCore.QRect(9, 10, 691, 677))
         self.verticalLayoutWidget.setObjectName("verticalLayoutWidget")

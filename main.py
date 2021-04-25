@@ -9,7 +9,7 @@ from PyQt5.QtCore import Qt
 from PyQt5.QtWidgets import QApplication, QWidget, QMainWindow, QTableWidgetItem, QMessageBox
 
 import listUI
-import mainUI
+import mainUI2 as mainUI
 import settingsUI2
 import addUI
 import sort_listUI
@@ -32,6 +32,7 @@ def file_search():
 
 def changes_notification():
     msg = QMessageBox()
+    msg.setStyleSheet("background: url(питончик.png); color: rgb(255, 255, 255);")
     msg.setText('Чтобы измения вступили в силу, надо перезапустить программу')
     msg.exec_()
 
@@ -114,6 +115,7 @@ class Settings(QWidget, settingsUI2.Ui_Form):
 
     def closeEvent(self, event):
         file_search()
+        changes_notification()
 
     def run(self):
         r = open('settings.txt', 'w')

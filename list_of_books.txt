@@ -1,1 +1,170 @@
-
+book::8924cbded012a77e::C://users/Smaks\.PyCharmCE2019.3\config\consoles\.history\py/8924cbded012a77e.txt
+book::9e1e9ec873729441::C://users/Smaks\.PyCharmCE2019.3\config\consoles\.history\py/9e1e9ec873729441.txt
+book::10 электодинамика (1)::C://users/Smaks\Downloads/10 электодинамика (1).docx
+book::10 электодинамика::C://users/Smaks\Downloads/10 электодинамика.docx
+music::12809::C://users/Smaks\Downloads/12809.mp3
+book::bce17799a76a7f4b::C://users/Smaks\Downloads/bce17799a76a7f4b.txt
+book::c2_10::C://users/Smaks\Downloads/c2_10.txt
+book::FormulyFiz::C://users/Smaks\Downloads/FormulyFiz.pdf
+music::looperman-a-1540447-0016861-say-less-verse-2::C://users/Smaks\Downloads/looperman-a-1540447-0016861-say-less-verse-2.mp3
+music::looperman-a-2258093-0016841-dinero-pyrex-swing (1)::C://users/Smaks\Downloads/looperman-a-2258093-0016841-dinero-pyrex-swing (1).mp3
+music::looperman-a-2258093-0016841-dinero-pyrex-swing::C://users/Smaks\Downloads/looperman-a-2258093-0016841-dinero-pyrex-swing.mp3
+book::Prakticheskaya_rabota_15_2::C://users/Smaks\Downloads/Prakticheskaya_rabota_15_2.pdf
+music::SHOOVAL - Мама дала денег::C://users/Smaks\Downloads/SHOOVAL - Мама дала денег.mp3
+music::Smokepurpp feat NLE Choppa - Double::C://users/Smaks\Downloads/Smokepurpp feat NLE Choppa - Double.mp3
+book::starlight_10_vocabulary_practice::C://users/Smaks\Downloads/starlight_10_vocabulary_practice.pdf
+book::Без срока давности::C://users/Smaks\Downloads/Без срока давности.pdf
+book::Вопросы и задачи к зачету (1)::C://users/Smaks\Downloads/Вопросы и задачи к зачету (1).pdf
+book::Вопросы и задачи к зачету (2)::C://users/Smaks\Downloads/Вопросы и задачи к зачету (2).pdf
+book::Вопросы и задачи к зачету (3)::C://users/Smaks\Downloads/Вопросы и задачи к зачету (3).pdf
+book::Вопросы и задачи к зачету::C://users/Smaks\Downloads/Вопросы и задачи к зачету.pdf
+book::Гравитация и антигравитация::C://users/Smaks\Downloads/Гравитация и антигравитация.pdf
+book::Демоверсия 10 проф 2021::C://users/Smaks\Downloads/Демоверсия 10 проф 2021.docx
+book::дз 10 класс::C://users/Smaks\Downloads/дз 10 класс.docx
+book::дз 10 м соед проводников::C://users/Smaks\Downloads/дз 10 м соед проводников.docx
+book::дз 10 м::C://users/Smaks\Downloads/дз 10 м.docx
+book::задание 2 теория::C://users/Smaks\Downloads/задание 2 теория.docx
+book::задание 2::C://users/Smaks\Downloads/задание 2.docx
+book::задание 25 теория::C://users/Smaks\Downloads/задание 25 теория.docx
+book::задание к уроку (2)::C://users/Smaks\Downloads/задание к уроку (2).docx
+book::задание к уроку::C://users/Smaks\Downloads/задание к уроку.docx
+book::механика и молекулярная физика для учащихся 11 кл::C://users/Smaks\Downloads/механика и молекулярная физика для учащихся 11 кл.pdf
+music::Окей мы часто кидаем снюс часто не понимая вкус - автор даун (Tik tok)::C://users/Smaks\Downloads/Окей мы часто кидаем снюс часто не понимая вкус - автор даун (Tik tok).mp3
+book::перв закон термод вн энергия работа (1)::C://users/Smaks\Downloads/перв закон термод вн энергия работа (1).docx
+book::перв закон термод вн энергия работа::C://users/Smaks\Downloads/перв закон термод вн энергия работа.docx
+book::электродинамика и кватовая физика для учеников 11 кл::C://users/Smaks\Downloads/электродинамика и кватовая физика для учеников 11 кл.pdf
+book::requirements::C://users/Smaks\Downloads\eljur-tg-bot-master/requirements.txt
+book::data::C://users/Smaks\Downloads\MSCeditor103/data.txt
+book::README::C://users/Smaks\Downloads\MSCeditor103/README.txt
+book::profiledata::C://users/Smaks\hitman/profiledata.txt
+book::MicrosoftEdgeSettingsBackup::C://users/Smaks\MicrosoftEdgeBackups\backups\MicrosoftEdgeBackup20200801/MicrosoftEdgeSettingsBackup.txt
+book::schema::C://users/Smaks\MicrosoftEdgeBackups\backups\MicrosoftEdgeBackup20200801\DatastoreBackup/schema.txt
+book::FPSMonitor::C://users/Smaks\OneDrive\Документы/FPSMonitor.txt
+book::version::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle/version.txt
+book::BF1-EA-Privacy_Policy-PC-ar-e158ccf8::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Privacy_Policy-PC-ar-e158ccf8.txt
+book::BF1-EA-Privacy_Policy-PC-br-40bcc8f5::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Privacy_Policy-PC-br-40bcc8f5.txt
+book::BF1-EA-Privacy_Policy-PC-cs-08e36f8e::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Privacy_Policy-PC-cs-08e36f8e.txt
+book::BF1-EA-Privacy_Policy-PC-de-5acd94c7::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Privacy_Policy-PC-de-5acd94c7.txt
+book::BF1-EA-Privacy_Policy-PC-en-d41c6ce1::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Privacy_Policy-PC-en-d41c6ce1.txt
+book::BF1-EA-Privacy_Policy-PC-es-9b5b964e::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Privacy_Policy-PC-es-9b5b964e.txt
+book::BF1-EA-Privacy_Policy-PC-fr-751c0122::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Privacy_Policy-PC-fr-751c0122.txt
+book::BF1-EA-Privacy_Policy-PC-it-e918e658::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Privacy_Policy-PC-it-e918e658.txt
+book::BF1-EA-Privacy_Policy-PC-jp-d0447da4::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Privacy_Policy-PC-jp-d0447da4.txt
+book::BF1-EA-Privacy_Policy-PC-ko-a64cd41f::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Privacy_Policy-PC-ko-a64cd41f.txt
+book::BF1-EA-Privacy_Policy-PC-mx-239b4588::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Privacy_Policy-PC-mx-239b4588.txt
+book::BF1-EA-Privacy_Policy-PC-pl-9011ec1f::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Privacy_Policy-PC-pl-9011ec1f.txt
+book::BF1-EA-Privacy_Policy-PC-ru-eeb84d61::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Privacy_Policy-PC-ru-eeb84d61.txt
+book::BF1-EA-Privacy_Policy-PC-tc-20c38a96::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Privacy_Policy-PC-tc-20c38a96.txt
+book::BF1-EA-Privacy_Policy-PC-tr-1162c67a::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Privacy_Policy-PC-tr-1162c67a.txt
+book::BF1-EA-Privacy_Policy-PS4-ar-d23e6be9::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Privacy_Policy-PS4-ar-d23e6be9.txt
+book::BF1-EA-Privacy_Policy-PS4-br-8254622f::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Privacy_Policy-PS4-br-8254622f.txt
+book::BF1-EA-Privacy_Policy-PS4-cz-10dcf052::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Privacy_Policy-PS4-cz-10dcf052.txt
+book::BF1-EA-Privacy_Policy-PS4-de-5db91fe6::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Privacy_Policy-PS4-de-5db91fe6.txt
+book::BF1-EA-Privacy_Policy-PS4-en-16fa45b7::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Privacy_Policy-PS4-en-16fa45b7.txt
+book::BF1-EA-Privacy_Policy-PS4-es-6eeac95c::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Privacy_Policy-PS4-es-6eeac95c.txt
+book::BF1-EA-Privacy_Policy-PS4-fr-928bd643::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Privacy_Policy-PS4-fr-928bd643.txt
+book::BF1-EA-Privacy_Policy-PS4-it-0d3747ea::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Privacy_Policy-PS4-it-0d3747ea.txt
+book::BF1-EA-Privacy_Policy-PS4-ja-2f18926b::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Privacy_Policy-PS4-ja-2f18926b.txt
+book::BF1-EA-Privacy_Policy-PS4-ko-8e236800::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Privacy_Policy-PS4-ko-8e236800.txt
+book::BF1-EA-Privacy_Policy-PS4-mx-1430f8e3::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Privacy_Policy-PS4-mx-1430f8e3.txt
+book::BF1-EA-Privacy_Policy-PS4-pl-b99d410e::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Privacy_Policy-PS4-pl-b99d410e.txt
+book::BF1-EA-Privacy_Policy-PS4-ru-c6b56e0d::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Privacy_Policy-PS4-ru-c6b56e0d.txt
+book::BF1-EA-Privacy_Policy-PS4-tc-3289d77a::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Privacy_Policy-PS4-tc-3289d77a.txt
+book::BF1-EA-Privacy_Policy-PS4-tr-375ff060::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Privacy_Policy-PS4-tr-375ff060.txt
+book::BF1-EA-Privacy_Policy-XBOX-ar-c5b69842::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Privacy_Policy-XBOX-ar-c5b69842.txt
+book::BF1-EA-Privacy_Policy-XBOX-br-f63d2687::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Privacy_Policy-XBOX-br-f63d2687.txt
+book::BF1-EA-Privacy_Policy-XBOX-cs-e8558212::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Privacy_Policy-XBOX-cs-e8558212.txt
+book::BF1-EA-Privacy_Policy-XBOX-de-87aa792f::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Privacy_Policy-XBOX-de-87aa792f.txt
+book::BF1-EA-Privacy_Policy-XBOX-en-19b7fd61::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Privacy_Policy-XBOX-en-19b7fd61.txt
+book::BF1-EA-Privacy_Policy-XBOX-es-58a02f3a::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Privacy_Policy-XBOX-es-58a02f3a.txt
+book::BF1-EA-Privacy_Policy-XBOX-fr-65fbf187::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Privacy_Policy-XBOX-fr-65fbf187.txt
+book::BF1-EA-Privacy_Policy-XBOX-it-58253880::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Privacy_Policy-XBOX-it-58253880.txt
+book::BF1-EA-Privacy_Policy-XBOX-jp-b69421f7::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Privacy_Policy-XBOX-jp-b69421f7.txt
+book::BF1-EA-Privacy_Policy-XBOX-ko-45b894c8::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Privacy_Policy-XBOX-ko-45b894c8.txt
+book::BF1-EA-Privacy_Policy-XBOX-mx-c16db0b8::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Privacy_Policy-XBOX-mx-c16db0b8.txt
+book::BF1-EA-Privacy_Policy-XBOX-pl-421c8f85::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Privacy_Policy-XBOX-pl-421c8f85.txt
+book::BF1-EA-Privacy_Policy-XBOX-ru-2cc0c661::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Privacy_Policy-XBOX-ru-2cc0c661.txt
+book::BF1-EA-Privacy_Policy-XBOX-tc-a26a741a::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Privacy_Policy-XBOX-tc-a26a741a.txt
+book::BF1-EA-Privacy_Policy-XBOX-tr-ecb70fcd::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Privacy_Policy-XBOX-tr-ecb70fcd.txt
+book::BF1-EA-Terms_of_service-PC-ar-99d3ac63::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Terms_of_service-PC-ar-99d3ac63.txt
+book::BF1-EA-Terms_of_service-PC-br-bcab0db8::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Terms_of_service-PC-br-bcab0db8.txt
+book::BF1-EA-Terms_of_service-PC-cs-b51352dc::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Terms_of_service-PC-cs-b51352dc.txt
+book::BF1-EA-Terms_of_service-PC-de-9fef088a::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Terms_of_service-PC-de-9fef088a.txt
+book::BF1-EA-Terms_of_service-PC-en-fc85ec7e::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Terms_of_service-PC-en-fc85ec7e.txt
+book::BF1-EA-Terms_of_service-PC-es-de5f00b2::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Terms_of_service-PC-es-de5f00b2.txt
+book::BF1-EA-Terms_of_service-PC-fr-bd3ace93::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Terms_of_service-PC-fr-bd3ace93.txt
+book::BF1-EA-Terms_of_service-PC-it-16a9da23::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Terms_of_service-PC-it-16a9da23.txt
+book::BF1-EA-Terms_of_service-PC-jp-de6a5a0e::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Terms_of_service-PC-jp-de6a5a0e.txt
+book::BF1-EA-Terms_of_service-PC-ko-5428e67d::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Terms_of_service-PC-ko-5428e67d.txt
+book::BF1-EA-Terms_of_service-PC-mx-9bc74e74::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Terms_of_service-PC-mx-9bc74e74.txt
+book::BF1-EA-Terms_of_service-PC-pl-80950584::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Terms_of_service-PC-pl-80950584.txt
+book::BF1-EA-Terms_of_service-PC-ru-5c77c7d9::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Terms_of_service-PC-ru-5c77c7d9.txt
+book::BF1-EA-Terms_of_service-PC-tc-267334b9::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Terms_of_service-PC-tc-267334b9.txt
+book::BF1-EA-Terms_of_service-PC-tr-f731ec3a::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Terms_of_service-PC-tr-f731ec3a.txt
+book::BF1-EA-Terms_of_service-PS4-ar-a24c85bd::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Terms_of_service-PS4-ar-a24c85bd.txt
+book::BF1-EA-Terms_of_service-PS4-br-692d98a9::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Terms_of_service-PS4-br-692d98a9.txt
+book::BF1-EA-Terms_of_service-PS4-cs-041c269d::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Terms_of_service-PS4-cs-041c269d.txt
+book::BF1-EA-Terms_of_service-PS4-de-2fda6c89::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Terms_of_service-PS4-de-2fda6c89.txt
+book::BF1-EA-Terms_of_service-PS4-en-e6cd1be4::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Terms_of_service-PS4-en-e6cd1be4.txt
+book::BF1-EA-Terms_of_service-PS4-es-117b19dd::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Terms_of_service-PS4-es-117b19dd.txt
+book::BF1-EA-Terms_of_service-PS4-fr-921878e1::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Terms_of_service-PS4-fr-921878e1.txt
+book::BF1-EA-Terms_of_service-PS4-it-b7c13e4c::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Terms_of_service-PS4-it-b7c13e4c.txt
+book::BF1-EA-Terms_of_service-PS4-ja-cebe5dbd::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Terms_of_service-PS4-ja-cebe5dbd.txt
+book::BF1-EA-Terms_of_service-PS4-ko-fad1f1cf::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Terms_of_service-PS4-ko-fad1f1cf.txt
+book::BF1-EA-Terms_of_service-PS4-mx-207e473a::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Terms_of_service-PS4-mx-207e473a.txt
+book::BF1-EA-Terms_of_service-PS4-pl-5300e7dd::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Terms_of_service-PS4-pl-5300e7dd.txt
+book::BF1-EA-Terms_of_service-PS4-ru-cf76eb3e::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Terms_of_service-PS4-ru-cf76eb3e.txt
+book::BF1-EA-Terms_of_service-PS4-tc-d3ea9753::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Terms_of_service-PS4-tc-d3ea9753.txt
+book::BF1-EA-Terms_of_service-PS4-tr-f922a86e::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Terms_of_service-PS4-tr-f922a86e.txt
+book::BF1-EA-Terms_of_service-XBOXONE-ar-838e26f3::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Terms_of_service-XBOXONE-ar-838e26f3.txt
+book::BF1-EA-Terms_of_service-XBOXONE-br-742841a0::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Terms_of_service-XBOXONE-br-742841a0.txt
+book::BF1-EA-Terms_of_service-XBOXONE-cs-c1e79c5a::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Terms_of_service-XBOXONE-cs-c1e79c5a.txt
+book::BF1-EA-Terms_of_service-XBOXONE-de-50049396::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Terms_of_service-XBOXONE-de-50049396.txt
+book::BF1-EA-Terms_of_service-XBOXONE-en-e5b14b41::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Terms_of_service-XBOXONE-en-e5b14b41.txt
+book::BF1-EA-Terms_of_service-XBOXONE-es-6fd278b8::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Terms_of_service-XBOXONE-es-6fd278b8.txt
+book::BF1-EA-Terms_of_service-XBOXONE-fr-75e4500d::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Terms_of_service-XBOXONE-fr-75e4500d.txt
+book::BF1-EA-Terms_of_service-XBOXONE-it-19f00637::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Terms_of_service-XBOXONE-it-19f00637.txt
+book::BF1-EA-Terms_of_service-XBOXONE-jp-def3fcc7::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Terms_of_service-XBOXONE-jp-def3fcc7.txt
+book::BF1-EA-Terms_of_service-XBOXONE-ko-2d0db025::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Terms_of_service-XBOXONE-ko-2d0db025.txt
+book::BF1-EA-Terms_of_service-XBOXONE-mx-d2a1ff28::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Terms_of_service-XBOXONE-mx-d2a1ff28.txt
+book::BF1-EA-Terms_of_service-XBOXONE-pl-330ae929::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Terms_of_service-XBOXONE-pl-330ae929.txt
+book::BF1-EA-Terms_of_service-XBOXONE-ru-049703a6::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Terms_of_service-XBOXONE-ru-049703a6.txt
+book::BF1-EA-Terms_of_service-XBOXONE-tc-47f8cfcf::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Terms_of_service-XBOXONE-tc-47f8cfcf.txt
+book::BF1-EA-Terms_of_service-XBOXONE-tr-cbb786c1::C://users/Smaks\OneDrive\Документы\Battlefield 1\twinkle\assets/BF1-EA-Terms_of_service-XBOXONE-tr-cbb786c1.txt
+book::backups::C://users/Smaks\OneDrive\Документы\Euro Truck Simulator 2/backups.txt
+book::Custom Ringtone Instructions::C://users/Smaks\OneDrive\Документы\MySummerCar\Mods\Assets\MokiaTownsman/Custom Ringtone Instructions.txt
+book::ecu_mod_logs::C://users/Smaks\OneDrive\Документы\MySummerCar\Mods\Config\Mod Settings\DonnerTech_ECU_Mod/ecu_mod_logs.txt
+book::Readme::C://users/Smaks\OneDrive\Документы\MySummerCar\Mods\Config\Mod Settings\NewHouse/Readme.txt
+book::turbocharger_big_blowoff_valve_partSave::C://users/Smaks\OneDrive\Документы\MySummerCar\Mods\Config\Mod Settings\SatsumaTurboCharger/turbocharger_big_blowoff_valve_partSave.txt
+book::turbocharger_big_exhaust_inlet_tube_partSave::C://users/Smaks\OneDrive\Документы\MySummerCar\Mods\Config\Mod Settings\SatsumaTurboCharger/turbocharger_big_exhaust_inlet_tube_partSave.txt
+book::turbocharger_big_exhaust_outlet_straight_partSave::C://users/Smaks\OneDrive\Документы\MySummerCar\Mods\Config\Mod Settings\SatsumaTurboCharger/turbocharger_big_exhaust_outlet_straight_partSave.txt
+book::turbocharger_big_exhaust_outlet_tube_partSave::C://users/Smaks\OneDrive\Документы\MySummerCar\Mods\Config\Mod Settings\SatsumaTurboCharger/turbocharger_big_exhaust_outlet_tube_partSave.txt
+book::turbocharger_big_intercooler_tube_partSave::C://users/Smaks\OneDrive\Документы\MySummerCar\Mods\Config\Mod Settings\SatsumaTurboCharger/turbocharger_big_intercooler_tube_partSave.txt
+book::turbocharger_big_partSave::C://users/Smaks\OneDrive\Документы\MySummerCar\Mods\Config\Mod Settings\SatsumaTurboCharger/turbocharger_big_partSave.txt
+book::turbocharger_boost_gauge_partSave::C://users/Smaks\OneDrive\Документы\MySummerCar\Mods\Config\Mod Settings\SatsumaTurboCharger/turbocharger_boost_gauge_partSave.txt
+book::turbocharger_exhaust_header_partSave::C://users/Smaks\OneDrive\Документы\MySummerCar\Mods\Config\Mod Settings\SatsumaTurboCharger/turbocharger_exhaust_header_partSave.txt
+book::turbocharger_hood_partSave::C://users/Smaks\OneDrive\Документы\MySummerCar\Mods\Config\Mod Settings\SatsumaTurboCharger/turbocharger_hood_partSave.txt
+book::turbocharger_intercooler_manifold_tube_twinCarb_partSave::C://users/Smaks\OneDrive\Документы\MySummerCar\Mods\Config\Mod Settings\SatsumaTurboCharger/turbocharger_intercooler_manifold_tube_twinCarb_partSave.txt
+book::turbocharger_intercooler_manifold_tube_weber_partSave::C://users/Smaks\OneDrive\Документы\MySummerCar\Mods\Config\Mod Settings\SatsumaTurboCharger/turbocharger_intercooler_manifold_tube_weber_partSave.txt
+book::turbocharger_intercooler_partSave::C://users/Smaks\OneDrive\Документы\MySummerCar\Mods\Config\Mod Settings\SatsumaTurboCharger/turbocharger_intercooler_partSave.txt
+book::turbocharger_manifold_twinCarb_partSave::C://users/Smaks\OneDrive\Документы\MySummerCar\Mods\Config\Mod Settings\SatsumaTurboCharger/turbocharger_manifold_twinCarb_partSave.txt
+book::turbocharger_manifold_weber_partSave::C://users/Smaks\OneDrive\Документы\MySummerCar\Mods\Config\Mod Settings\SatsumaTurboCharger/turbocharger_manifold_weber_partSave.txt
+book::turbocharger_mod_boost_SaveFile::C://users/Smaks\OneDrive\Документы\MySummerCar\Mods\Config\Mod Settings\SatsumaTurboCharger/turbocharger_mod_boost_SaveFile.txt
+book::turbocharger_mod_ModsShop_SaveFile::C://users/Smaks\OneDrive\Документы\MySummerCar\Mods\Config\Mod Settings\SatsumaTurboCharger/turbocharger_mod_ModsShop_SaveFile.txt
+book::turbocharger_mod_screws_SaveFile::C://users/Smaks\OneDrive\Документы\MySummerCar\Mods\Config\Mod Settings\SatsumaTurboCharger/turbocharger_mod_screws_SaveFile.txt
+book::turbocharger_mod_wear_SaveFile::C://users/Smaks\OneDrive\Документы\MySummerCar\Mods\Config\Mod Settings\SatsumaTurboCharger/turbocharger_mod_wear_SaveFile.txt
+book::turbocharger_small_airfilter_partSave::C://users/Smaks\OneDrive\Документы\MySummerCar\Mods\Config\Mod Settings\SatsumaTurboCharger/turbocharger_small_airfilter_partSave.txt
+book::turbocharger_small_exhaust_inlet_tube_partSave::C://users/Smaks\OneDrive\Документы\MySummerCar\Mods\Config\Mod Settings\SatsumaTurboCharger/turbocharger_small_exhaust_inlet_tube_partSave.txt
+book::turbocharger_small_exhaust_outlet_tube_partSave::C://users/Smaks\OneDrive\Документы\MySummerCar\Mods\Config\Mod Settings\SatsumaTurboCharger/turbocharger_small_exhaust_outlet_tube_partSave.txt
+book::turbocharger_small_intercooler_tube_partSave::C://users/Smaks\OneDrive\Документы\MySummerCar\Mods\Config\Mod Settings\SatsumaTurboCharger/turbocharger_small_intercooler_tube_partSave.txt
+book::turbocharger_small_manifold_twinCarb_tube_partSave::C://users/Smaks\OneDrive\Документы\MySummerCar\Mods\Config\Mod Settings\SatsumaTurboCharger/turbocharger_small_manifold_twinCarb_tube_partSave.txt
+book::turbocharger_small_partSave::C://users/Smaks\OneDrive\Документы\MySummerCar\Mods\Config\Mod Settings\SatsumaTurboCharger/turbocharger_small_partSave.txt
+book::ffb_custom_settings::C://users/Smaks\OneDrive\Документы\Project CARS 2/ffb_custom_settings.txt
+book::index::C://users/Smaks\OneDrive\Документы\Rockstar Games\Social Club\Launcher\Renderer\Service Worker\CacheStorage\7c129e28a53a20755871f994f1997209760a9724/index.txt
+video::0-02-0a-bfd9210f9ef53dce4acab903eddf4545f0e8d350df3b63729dbb4beafab8d090_1cf2982c::C://users/Smaks\OneDrive\Документы\ViberDownloads/0-02-0a-bfd9210f9ef53dce4acab903eddf4545f0e8d350df3b63729dbb4beafab8d090_1cf2982c.mp4
+video::0-02-0a-c535cd175f1fcc322101f08ae38187175a1ecbb1c427e916ab0254806d001ee6_278ab11e::C://users/Smaks\OneDrive\Документы\ViberDownloads/0-02-0a-c535cd175f1fcc322101f08ae38187175a1ecbb1c427e916ab0254806d001ee6_278ab11e.mp4
+video::0-02-0a-ccef135fb2e6cdb450fc7cac218adb1e562c536b75151487786e34a4edf0b249_84b3316::C://users/Smaks\OneDrive\Документы\ViberDownloads/0-02-0a-ccef135fb2e6cdb450fc7cac218adb1e562c536b75151487786e34a4edf0b249_84b3316.mp4
+video::0-04-05-853c8d384050dd254f6225f85b4ff9f9bf55a11189df8229a6f063913a499028_b2e9c172::C://users/Smaks\OneDrive\Документы\ViberDownloads\PublicAccountMedia/0-04-05-853c8d384050dd254f6225f85b4ff9f9bf55a11189df8229a6f063913a499028_b2e9c172.mp4
+video::0-04-0a-414fe927ec7a74b612690751157c257bb3511ce352f4971cf77ed84a94fc0725_41944483::C://users/Smaks\OneDrive\Документы\ViberDownloads\PublicAccountMedia/0-04-0a-414fe927ec7a74b612690751157c257bb3511ce352f4971cf77ed84a94fc0725_41944483.mp4
+video::0-04-0a-43529aeb28e6d3e8a512a6485d61c9ae5d541530116c3ab2666ae3b0b2dc5601_ac1618d8::C://users/Smaks\OneDrive\Документы\ViberDownloads\PublicAccountMedia/0-04-0a-43529aeb28e6d3e8a512a6485d61c9ae5d541530116c3ab2666ae3b0b2dc5601_ac1618d8.mp4
+video::1892f3cf-b6c8-438f-95fe-8dd45a402340::C://users/Smaks\OneDrive\Документы\Wondershare Filmora 9\Upload/1892f3cf-b6c8-438f-95fe-8dd45a402340.mp4
